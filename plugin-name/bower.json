@@ -1,0 +1,12 @@
+{
+    "name": "plugin-boilerplate",
+    "homepage": "https://www.bobz.co",
+    "authors": [
+        "Vlado Bosnjak <vb@bobz.co>"
+    ],
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+        "susy" : "2.2.12"
+    }
+}

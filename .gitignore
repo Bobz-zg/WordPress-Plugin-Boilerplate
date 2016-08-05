@@ -12,12 +12,16 @@
 
 # OS or Editor folders
 .DS_Store
+.DS_Store?
 Thumbs.db
 .cache
 .project
 .settings
 .tmproj
 *.esproj
+._*
+.Spotlight-V100
+.Trashes
 nbproject
 *.sublime-project
 *.sublime-workspace
@@ -37,3 +41,6 @@ dwsync.xml
 intermediate
 .idea
 cache
+plugin-name/assets
+plugin-name/bower_components
+plugin-name/node_modules
